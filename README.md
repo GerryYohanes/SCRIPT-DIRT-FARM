@@ -2,6 +2,8 @@
 
 Script otomatis untuk membangun **Dirt Farm** Growtopia dengan sistem pintar dan efisien. Cocok untuk pengelolaan world farming skala besar dengan banyak bot.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUdLOdyVnQO1-YAv-P0NOY0ASTWHM-4wYlw&amp;s" class="sFlh5c FyHeAf" alt="How to make a Dirt Farm??? - Growtopia Forums" jsname="JuXqh" style="max-width: 1600px; position: absolute; visibility: hidden;" data-ilt="1753601546787">
+
 ---
 
 ## ✨ Fitur Utama
